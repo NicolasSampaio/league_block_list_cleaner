@@ -1,0 +1,4 @@
+pandas
+psutil
+requests
+urllib3 
